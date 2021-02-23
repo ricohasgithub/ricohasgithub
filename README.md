@@ -1,6 +1,6 @@
 ### Hello Everybody! 👋
 
-Apparently you can make ReadMe bios on Github now, which is pretty wild. So I'm Rico Zhu, a soon-to-be highschool senior who loves to learn and program! I'm currently working on a few personal projects, but definitely feel free to [ping me](mailto:ricozhuthegreat@hotmail.com "my email") if you want to collaborate!
+Apparently you can make ReadMe bios on Github now, which is pretty wild. So I'm Rico Zhu, a highschool senior who loves to learn and program! I'm currently working on a few personal projects, but definitely feel free to [ping me](mailto:ricozhuthegreat@hotmail.com "my email") if you want to collaborate!
 
 ###### 😎 Fun Fact: I once got my tongue stuck to a fence (fun times)
 ###### 👀 2nd Fun Fact: I also have an [instagram page](https://instagram.com/ricohacks) dedicated to my hackathon shenanigans where I occasionally post some pretty quality content
