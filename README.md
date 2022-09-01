@@ -1,6 +1,6 @@
 ### Hello Everybody! 👋
 
-Apparently you can make ReadMe bios on Github now, which is pretty wild. I'm Rico Zhu (he/him/his), a freshman at Duke University who loves to learn and program! I'm currently working on a few personal projects, but definitely feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you want to collaborate!
+Apparently you can make ReadMe bios on Github now, which is pretty wild. I'm Rico Zhu (he/him/his), a sophomore at Duke University who loves to learn and program! I'm currently working on a few personal projects, but definitely feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you want to collaborate!
 <!--
 **ricohasgithub/ricohasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
