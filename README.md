@@ -1,6 +1,6 @@
 ### Hello Everybody! 👋
 
-I'm Rico Zhu (he/him/his), a senior at Duke University double majoring in CS and Math. I do research in interpretable machine learning (specifically in interpretable generative models), as well as geometric and topological deep learning.! I'm currently working on a few personal projects, but definitely feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you want to collaborate!
+I'm Rico Zhu (he/him/his), a senior at Duke University double majoring in CS and Math. I do research in interpretable machine learning (specifically in interpretable generative models), as well as geometric and topological deep learning! Feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you want to collaborate!
 <!--
 **ricohasgithub/ricohasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
