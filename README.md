@@ -1,6 +1,6 @@
 ### Hello Everybody! 👋
 
-I'm Rico Zhu (he/him/his), and I recently graduated from Duke University with a double major in CS and Math. I do research in interpretable machine learning (specifically to design better generative models for science discovery), as well as in deep learning theory. Feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you want to collaborate!
+I'm Rico Zhu (he/him/his), and I recently graduated from Duke University with a double major in CS and Math. I do research in both interpretable machine learning (specifically to design better generative models for science discovery) as well as in deep learning theory. I have a few of my old projects linked below. Feel free to [ping me](mailto:rico.zhu@duke.edu "my email") if you would like to collaborate!
 <!--
 **ricohasgithub/ricohasgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
